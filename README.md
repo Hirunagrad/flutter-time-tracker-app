@@ -10,6 +10,6 @@ To use this project with Firebase, some configuration steps are required.
 Create a new project with the Firebase console..........
 
 
-# HOME
+# Sign Up
 
 ![Capture1](https://user-images.githubusercontent.com/64424930/117525321-44192b00-afdf-11eb-8b53-3bc2d88737a9.png)
