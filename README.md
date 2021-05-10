@@ -1,16 +1,16 @@
-# flutter_app1
+#flutter-time-tracker-app
 
-A new Flutter application.
+This repo contains the source code for my time tracker application
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#Running the project with Firebase
+To use this project with Firebase, some configuration steps are required.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#Sign Up
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture1](https://user-images.githubusercontent.com/64424930/117605330-10700980-b175-11eb-9dd1-6ee67c28cec9.png)
+
+
+
+
